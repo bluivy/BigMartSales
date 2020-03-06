@@ -1,2 +1,3 @@
 # BigMartSales
-Here a simple LinearRegression is employed to project the sales of Bigmart market 
+A linear Regression is used to predict the sales of Bigmart
+
